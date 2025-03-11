@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "butiki", "butiki.csproj", "{C13FA11D-A60A-4AA7-A323-6EBEB9E7E226}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "..\ClassLibrary1\ClassLibrary1.csproj", "{D6E32923-B67F-4FF5-B90E-A842BD9EEF1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C13FA11D-A60A-4AA7-A323-6EBEB9E7E226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C13FA11D-A60A-4AA7-A323-6EBEB9E7E226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C13FA11D-A60A-4AA7-A323-6EBEB9E7E226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C13FA11D-A60A-4AA7-A323-6EBEB9E7E226}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6E32923-B67F-4FF5-B90E-A842BD9EEF1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6E32923-B67F-4FF5-B90E-A842BD9EEF1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6E32923-B67F-4FF5-B90E-A842BD9EEF1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6E32923-B67F-4FF5-B90E-A842BD9EEF1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFDC2C8A-E42D-469F-B0DF-441ABD5F2F4E}
+	EndGlobalSection
+EndGlobal

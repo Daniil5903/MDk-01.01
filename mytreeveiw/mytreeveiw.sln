@@ -5,6 +5,8 @@ VisualStudioVersion = 17.13.35825.156 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mytreeveiw", "mytreeveiw\mytreeveiw.csproj", "{A5062E93-1E80-4E3A-B0C5-B75242E6C23F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLib", "ClassLib\ClassLib.csproj", "{9C5A6D86-CA97-4DD7-9971-B8132184907F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A5062E93-1E80-4E3A-B0C5-B75242E6C23F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5062E93-1E80-4E3A-B0C5-B75242E6C23F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5062E93-1E80-4E3A-B0C5-B75242E6C23F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C5A6D86-CA97-4DD7-9971-B8132184907F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C5A6D86-CA97-4DD7-9971-B8132184907F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C5A6D86-CA97-4DD7-9971-B8132184907F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C5A6D86-CA97-4DD7-9971-B8132184907F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
